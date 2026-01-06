@@ -1,1 +1,2 @@
-"Spring25_SDN302_SE1916-NJ Source code sharing" 
+Nội dung học tập: Phát triển ứng dụng Back-End sử dụng NodeJS, MongoDB (Mongoose), Express Framework
+...
